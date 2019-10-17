@@ -1,4 +1,4 @@
-# Lightning Talks
+# Lightning Talk
 
 ## Overview
 
@@ -9,10 +9,10 @@ In this session, you will be presenting a topic of your choice to your classmate
 
 You can think about selecting a topic in two ways:
 
-1. Select one topic that we have covered in the class or a general computer science/engineering topic.
+1. Select one topic that we have covered in the class so far or a general computer science/engineering topic.
 2. Look for an interesting topic that we have not covered then think about how you can present it for the class.
 
-[Topic Submission](https://forms.gle/15GCSqfGjjCcoNgy9)
+[Topic Submission](https://docs.google.com/spreadsheets/d/1jKpdxKoheRUcqHlQvORPPdQ4D_w5T_XjYmsEUPqrrDg/edit?usp=sharing)
 
 
 ## What is a lightning talk?
@@ -24,7 +24,6 @@ For our purposes, a lightning talk is a talk lasting **no more than 5 minutes**.
 You could prepare slides for your talk to help you explain. _But all slides will be shown from a single laptop._
 
 **Time limits will be strictly enforced.**
-
 
 
 ## Useful Resources
