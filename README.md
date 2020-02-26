@@ -12,7 +12,7 @@ You can think about selecting a topic in two ways:
 1. Select one topic that we have covered in the class so far or a general computer science/engineering topic.
 2. Look for an interesting topic that we have not covered then think about how you can present it for the class.
 
-[Topic Submission](https://docs.google.com/spreadsheets/d/1jKpdxKoheRUcqHlQvORPPdQ4D_w5T_XjYmsEUPqrrDg/edit?usp=sharing)
+[Topic Submission](https://docs.google.com/spreadsheets/d/1zzJKU689EVcSMt72HUB4RwOcHWSe1lUimZoxtZZ6vik/edit?usp=sharing)
 
 
 ## What is a lightning talk?
